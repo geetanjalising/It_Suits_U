@@ -1,0 +1,1 @@
+export const BASE_URL="https://ecommerce-8bjm.onrender.com"

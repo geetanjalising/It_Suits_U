@@ -1,0 +1,33 @@
+.footer_container{
+   color: aliceblue;
+    display: flex;
+    background-color: rgb(54, 52, 62);
+    justify-content:space-evenly;
+    margin-top: 10px;
+    position: sticky;
+    
+
+}
+.footer_container p{
+ font-size: 13px;
+}
+/* .lastDetails{
+    margin-top: -50px;
+    color: white;
+    background-color: black;
+    letter-spacing: .3px;
+    text-align: center;
+   
+} */
+
+.lastDetails {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    letter-spacing: .3px;
+ 
+}
+.footer_details_one{
+    margin-top: 20px;
+}
+
